@@ -84,7 +84,7 @@ def heap_sort(arr):
 def main():
     # A few sample lists to demonstrate the sort
     sample_arrays = [
-        [12, 11, 13, 5, 6],
+        [37, 2, 9, 41, 18],
         [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
         [4, 4, 2, 4, 1],
         [-3, 0, -7, 4, -1],
